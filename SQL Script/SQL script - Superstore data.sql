@@ -1,4 +1,4 @@
-drop table temp_tablebi5;
+
 create table temp_tableBI5
 (
 	Row_ID int,
